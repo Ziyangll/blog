@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is ziyang and I am a fullstack developer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently a college sophomore and I love technology.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ziyangli103@gmail.com](mailto:ziyangli103@gmail.com)
