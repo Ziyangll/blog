@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making a Mern stack todolist
+title: Making a Mern stack todo list
 ---
 
 I learned a lot about the MERN stack throughout this project.
@@ -13,7 +13,7 @@ The actual database was painless and simple to start.
 
 I made a cluster and made a new collection. I whitelisted 0.0.0.0 so the database can be talked to from anywhere. I got the url for connecting to the database and stored it in a .env file.
 
-I wanted to use SQL when I was planning out the project but due to how simple the project is I just went with MongoDB. I am currenly planning another project and maybe use SQL in that project just so I have some experience with SQL.
+I wanted to use SQL when I was planning out the project but due to how simple the project is I just went with MongoDB. I am currently planning another project and maybe use SQL in that project just so I have some experience with SQL.
 
 ### Express & Node
 
